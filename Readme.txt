@@ -3,6 +3,7 @@ Readme - HTTP Post library for Arduino.
 Made by Tobias Koops from MicroEnergyInternational
 Based on code from Andreas Spiess
 License: Opensource
+http://gitlab.koukei.de/Tobias/A6HTTPLibrary.git
 
 This is a library for the A6-GSMChip by Ai-Thinkers.
 

@@ -4,6 +4,7 @@ A6HTTP.cpp - HTTP Post library for Arduino.
 Made by Tobias Koops from MicroEnergyInternational
 Based on code from Andreas Spiess
 License: Opensource
+http://gitlab.koukei.de/Tobias/A6HTTPLibrary.git
 */
 
 #ifndef A6HTTP_h
