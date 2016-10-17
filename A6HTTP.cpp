@@ -54,7 +54,7 @@ Serial.println("Start setup");
 
 bool A6HTTP::HttpPost(String body)
 {
-	Serial.println("Start post function")
+	Serial.println("Start post function");
   int bodyLength = body.length();
   Serial.println(bodyLength);
   A6command("AT+CGATT?", "OK", "yy", 20000, 2);
